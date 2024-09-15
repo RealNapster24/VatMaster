@@ -69,5 +69,4 @@ int main (){
     printf("Press enter to exit");    
     getchar();
     getchar();
-    getchar();
 }
